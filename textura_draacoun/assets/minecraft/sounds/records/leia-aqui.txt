@@ -1,0 +1,1 @@
+Na pasta records você adiciona um arquivo de áudio .ogg para usá-lo como disco musical. Veja o arquivo sounds.json para saber como registrá-lo.
